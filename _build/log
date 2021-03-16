@@ -1,0 +1,5 @@
+# dune ocaml-merlin --no-print-directory
+# OCAMLPARAM: unset
+# Workspace root: /home/n7student/2A/TDL/Rendu_miniML/miniML/TP2/student
+$ /usr/bin/nproc > /tmp/dune6165a4.output 2> /dev/null
+# Auto-detected concurrency: 8

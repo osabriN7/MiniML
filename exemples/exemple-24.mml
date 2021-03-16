@@ -1,0 +1,1 @@
+let myfct = (fun x -> x+3) in myfct

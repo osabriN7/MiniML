@@ -1,0 +1,2 @@
+let id = (fun x ->
+if x =2 then true else false) in id

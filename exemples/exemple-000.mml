@@ -1,0 +1,4 @@
+let x = 0 in
+let f = (fun x ->
+let y = x in y+1)
+in (f) x

@@ -1,0 +1,3 @@
+let y = ref 0 
+in let x = ref 2 
+in y := !x
